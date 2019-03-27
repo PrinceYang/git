@@ -22,4 +22,4 @@
     master、develop、 release、 hotfix<br>
   4. git release<br>
     发布版本
-  
+  5. test reset
