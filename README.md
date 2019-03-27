@@ -1,6 +1,6 @@
 一、git
   1. 安装 配置<br>
-    安装命令、环境配置、git config<br>
+    安装、环境配置、git config<br>
   2. 常用命令<br>
     1. 常用命令<br>
     2. git commit message格式、插件、type(feat/fix/docs...) 、tag<br>
