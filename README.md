@@ -18,6 +18,8 @@
     通过命令方式安装git flow    (MacOS的命令  brew install git-flow)
   2. 常用命令<br>
     init、publish、feature...
-  3. git release<br>
+  3. 分支的说明<br>
+    master、develop、 release、 hotfix<br>
+  4. git release<br>
     发布版本
   
