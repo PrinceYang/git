@@ -6,7 +6,7 @@
     2. git commit message格式、插件、type(feat/fix/docs...) 、tag<br>
   3. change log
     插件<br>
-  4. copyright
+  4. copyright<br>
     修改vscode新建js的模板
     可以修改JavaScript的模板 然后输入指定的词会自动输出
     © 2018 FCoE, DRC, Delta Electronics, Inc. All Rights Reserved.
