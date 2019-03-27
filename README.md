@@ -1,5 +1,5 @@
 一、git
-  1. 安装 配置
+  1. 安装 配置<br>
     安装命令、环境配置、git config<br>
   2. 常用命令<br>
     1. 常用命令<br>
@@ -15,10 +15,10 @@
     2008—2011，意思是说代码完成时间是2008年，最近一次修订在2011年。
 
 二、gitflow
-  1. 安装
+  1. 安装<br>
     OS 命令安装  brew install git-flow
-  2. 常用命令
+  2. 常用命令<br>
     init、publish、feature...
-  3. git release
-  release到master分支
+  3. git release<br>
+    release到master分支
   
