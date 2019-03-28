@@ -6,21 +6,14 @@
     "react": "^16.8.0-alpha.1"
   },
   "scripts": {
-    "commit": "npx git-cz",
-    "commitmsg": "validate-commit-msg"
+    "commit": "npx git-cz"
   },
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    },
-    "ghooks": {
-      "pre-commit": "gulp lint",
-      "commit-msg": "validate-commit-msg"
     }
   },
   "devDependencies": {
-    "ghooks": "^2.0.4",
-    "validate-commit-msg": "^2.14.0",
-    "yorkie": "^2.0.0"
+    "validate-commit-msg": "^2.14.0"
   }
 }
