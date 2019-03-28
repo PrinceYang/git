@@ -2,6 +2,10 @@
   "name": "git",
   "version": "0.0.1",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conventional-changelog/conventional-changelog.git"
+  },
   "dependencies": {
     "conventional-changelog": "^3.0.6",
     "react": "^16.8.0-alpha.1"
