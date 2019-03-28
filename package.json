@@ -12,10 +12,15 @@
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    }
+    },
+    "ghooks": {
+      "pre-commit": "gulp lint",
+      "commit-msg": "validate-commit-msg"
+  }
   },
   "devDependencies": {
     "ghooks": "^2.0.4",
-    "validate-commit-msg": "^2.14.0"
+    "validate-commit-msg": "^2.14.0",
+    "yorkie": "^2.0.0"
   }
 }
