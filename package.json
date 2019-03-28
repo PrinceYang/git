@@ -1,0 +1,11 @@
+{
+  "name": "git",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.0-alpha.1"
+  },
+  "scripts": {
+    "commit": "npx git-cz"
+  }
+}
