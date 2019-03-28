@@ -9,7 +9,7 @@
 ###1.配置 
 #####1. 
        使用命令 "git config --global user.name "Your Name" " 配置用户名
-       使用命令 "git config --global user.email "email@example.com" " 配置邮箱
+       使用命令 "git config --global user.email "Your Email" " 配置邮箱
        使用命令 "git config user.name" or "git config user.email" 查看当前用户名或邮箱
 #####2. git version 查看git版本
 #####3. git config --list 查看配置文件
@@ -49,7 +49,7 @@
     All rights reserved表示保留所有权利。
     2018—2019，意思是说代码完成时间是2018年，最近一次修订在2019年。
 
-<h2>二、gitflow</h2>
+二、gitflow
   1. 安装
     通过命令方式安装git flow    (MacOS的命令  brew install git-flow)
   2. 常用命令
@@ -59,8 +59,8 @@
   4. git release
     发布版本
   5. test reset
-<a href="https://blog.csdn.net/yxlshk/article/details/79944535">git恢复之前的版本1</a>
-<a href="https://git-scm.com/book/zh/v1/Git-基础-撤消操作">git恢复之前的版本2</a>
+<!-- <a href="https://blog.csdn.net/yxlshk/article/details/79944535">git恢复之前的版本1</a> -->
+<!-- <a href="https://git-scm.com/book/zh/v1/Git-基础-撤消操作">git恢复之前的版本2</a> -->
 commitlint https://www.cnblogs.com/liuming666/p/e3f10b69324d50518ef3a2ea71de6ed9.html
 git cz,  http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
 git changelog https://www.jianshu.com/p/00c9ec4e552e
