@@ -1,13 +1,25 @@
 <h1>一、git</h1>
-  <h2>1. 安装 配置</h2><br>
-    <h5>1. <a href="https://git-scm.com">官网</a>下载，根据自身OS下载git</h5><br>
-    2. 使用命令"git config --global user.name "Your Name" " 配置用户名
-       "git config --global user.email "email@example.com" " 配置邮箱
-       使用命令 "git config user.name" "git config user.email" 查看当前用户名或邮箱
+  <h2>1. 安装和配置</h2><br>
+    1. <a href="https://git-scm.com">官网</a>下载，根据自身OS下载git。<hr>
+      a. Windows：运行安装程序后配置环境变量，将安装git的目录定位到bin文件夹以后，复制bin的路径，将此
+         路径添加到环境变量中，重启cmd即可运行git命令<br>
+      b. MacOS：git version 查看git版本，如果报错请自行下载
+    2. 使用命令 "git config --global user.name "Your Name" " 配置用户名
+       使用命令 "git config --global user.email "email@example.com" " 配置邮箱
+       使用命令 "git config user.name" or "git config user.email" 查看当前用户名或邮箱
+    3. git version 查看git版本
+    4. git config --list 查看配置文件
+    5. vi .gitconfig 查看并编写git config文件
   2. 常用命令<br>
     1. 常用命令，包括分支、提交、等<br>
+      a. git clone yourGitProjectUrl  拉取远端仓库
+      b. git branch 查看分支，-a 查看所有分支包括远端(需要在本地项目跟目录运行此命令)
+      c. git status 查看本地仓库状态
+      d. git add . 添加修改后的文件
+      e. git commit 提交代码到本地缓存区，命令执行后需要填写提交信息。尽量多次提交，容易回退。
     2. git commit message的格式，检查格式的插件，type(feat/fix/docs...)的说明，以及tag<br>
- git checkout -- README.md 撤销更改
+        git checkout -- README.md 撤销更改
+        git commit --amend 重新提交 使用场景：提交信息填写错误 更改提交信息
     3. git恢复之前版本的两种方法：
       方法一：使用reset，适用场景：如果想恢复到之前某个提交的版本，且那个版本之后提交的版本我们都不要了，就可以用这种方法。
         a. 查看版本号 git log
@@ -37,4 +49,6 @@
   4. git release<br>
     发布版本
   5. test reset
-
+<a href="https://blog.csdn.net/yxlshk/article/details/79944535">git恢复之前的版本1</a>
+<a href="https://git-scm.com/book/zh/v1/Git-基础-撤消操作">git恢复之前的版本2</a>
+asdf
