@@ -16,7 +16,7 @@
     "ghooks": {
       "pre-commit": "gulp lint",
       "commit-msg": "validate-commit-msg"
-  }
+    }
   },
   "devDependencies": {
     "ghooks": "^2.0.4",
