@@ -12,7 +12,7 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     },
-    "hooks": {
+    "ghooks": {
       "commit-msg": "./validate-commit-msg.js"
     }
   }
