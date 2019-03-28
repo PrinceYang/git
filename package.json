@@ -15,5 +15,8 @@
     "ghooks": {
       "commit-msg": "./validate-commit-msg.js"
     }
+  },
+  "devDependencies": {
+    "validate-commit-msg": "^2.14.0"
   }
 }
