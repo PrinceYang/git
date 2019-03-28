@@ -1,21 +1,20 @@
+# 一、git
 
-#一、git
-
-##1. 安装和配置
-###1.安装 
+## 1. 安装和配置
+### 1.安装 
 ###   a. 根据自身OS从[官网](https://git-scm.com)下载git。
       b. Windows：运行安装程序后配置环境变量，将安装git的目录定位到bin文件夹以后，复制bin的路径，将此路径添加到环境变量中，重启cmd即可运行git命令
       c. MacOS：git version 查看git版本，如果报错请自行下载
-###1.配置 
-#####1. 
+### 1.配置 
+##### 1. 
        使用命令 "git config --global user.name "Your Name" " 配置用户名
        使用命令 "git config --global user.email "Your Email" " 配置邮箱
        使用命令 "git config user.name" or "git config user.email" 查看当前用户名或邮箱
-#####2. git version 查看git版本
-#####3. git config --list 查看配置文件
-#####4. vi .gitconfig 查看并编写git config文件
+##### 2. git version 查看git版本
+##### 3. git config --list 查看配置文件
+##### 4. vi .gitconfig 查看并编写git config文件
 
-##2. 常用命令
+## 2. 常用命令
     1. 常用命令，包括分支、提交、等
       open . 打开命令行当前路径文件夹
       a. git clone yourProjectUrl  拉取远端仓库
