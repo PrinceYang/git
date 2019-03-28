@@ -61,4 +61,5 @@
 <a href="https://blog.csdn.net/yxlshk/article/details/79944535">git恢复之前的版本1</a>
 <a href="https://git-scm.com/book/zh/v1/Git-基础-撤消操作">git恢复之前的版本2</a>
 commitlint https://www.cnblogs.com/liuming666/p/e3f10b69324d50518ef3a2ea71de6ed9.html
-git cz, git change log  http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+git cz,  http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
+git changelog https://www.jianshu.com/p/00c9ec4e552e
