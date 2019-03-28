@@ -11,9 +11,6 @@
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
-    },
-    "ghooks": {
-      "commit-msg": "./validate-commit-msg.js"
     }
   },
   "devDependencies": {
