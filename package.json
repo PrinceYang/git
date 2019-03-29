@@ -1,6 +1,6 @@
 {
   "name": "git",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "private": true,
   "repository": {
     "type": "git"
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "commit": "npx git-cz",
-    "changelog": "conventional-changelog -p eslint -I CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
+    "changelog": "conventional-changelog -p eslint -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
   },
   "config": {
     "commitizen": {
