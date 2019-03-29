@@ -3,8 +3,7 @@
   "version": "0.1.4",
   "private": true,
   "repository": {
-    "type": "git",
-    "url": "https://github.com/conventional-changelog/conventional-changelog.git"
+    "type": "git"
   },
   "dependencies": {
     "conventional-changelog": "^3.0.6",
