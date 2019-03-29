@@ -62,6 +62,6 @@
 <!-- <a href="https://git-scm.com/book/zh/v1/Git-基础-撤消操作">git恢复之前的版本2</a> -->
 commitlint https://www.cnblogs.com/liuming666/p/e3f10b69324d50518ef3a2ea71de6ed9.html
 git cz,  http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
-git changelog https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli   major 大版本
+git changelog https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli   major 大版本  minor 中间版本  patch小版本
 test changelog13
 tag 13
