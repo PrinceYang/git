@@ -63,5 +63,5 @@
 commitlint https://www.cnblogs.com/liuming666/p/e3f10b69324d50518ef3a2ea71de6ed9.html
 git cz,  http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html
 git changelog https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli
-test changelog7
-tag 7
+test changelog8
+tag 8
