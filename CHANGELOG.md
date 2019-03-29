@@ -1,4 +1,9 @@
-# [1.0.0](https://github.com/PrinceYang/git/compare/0.1.12...1.0.0) (2019-03-29)
+# [1.1.0](https://github.com/PrinceYang/git/compare/v1.0.0...v1.1.0) (2019-03-29)
+
+
+
+
+# [1.0.0](https://github.com/PrinceYang/git/compare/0.1.12...v1.0.0) (2019-03-29)
 
 
 
